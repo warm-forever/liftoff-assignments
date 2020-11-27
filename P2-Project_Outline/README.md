@@ -9,26 +9,26 @@ For this assignment, you will submit a high-level outline of your project. This 
 ### Overview
    Recleague organizer app for all ages where users can register, create events for specific games and share those events with other users. 
 ### Features
-   Doug* Users can register accounts and login
-   Don* Users can create events with location, date/time -- duration, number of players, type of activity, is equipment needed, skill level, age
-   Listing of sports available(i.e kickball, hockey, etc)
-   Bennita*  Running scoreboard -- first two folks from both teams become refs
-   Marina*  Users can add teammates to friends list
-   Kit* Users can view history of events attended
-   Hailu* Users can search for and find events
-   Identify events friends attended
-   Users can comments on events -- comments can be tagged as general comment/complaints/suggestions
-   Users can view team and individual stats
-   Trade dates feature 
-   Register teams vs individuals?
-   Link to location for address -- Google Maps API
-   Recurring events?
+   #### Doug* Users can register accounts and login
+   #### Don* Users can create events with location, date/time -- duration, number of players, type of activity, is equipment needed, skill level, age
+   #### Listing of sports available(i.e kickball, hockey, etc)
+   #### Bennita*  Running scoreboard -- first two folks from both teams become refs
+   #### Marina*  Users can add teammates to friends list
+   #### Kit* Users can view history of events attended
+   #### Hailu* Users can search for and find events
+   #### Identify events friends attended
+   #### Users can comments on events -- comments can be tagged as general comment/complaints/suggestions
+   #### Users can view team and individual stats
+   #### Trade dates feature 
+   #### Register teams vs individuals?
+   #### Link to location for address -- Google Maps API
+   #### Recurring events?
 
 ### Technologies
-   Angular/JavaScript Frontend, Java/Spring Boot Backend, SQL
+   #### Angular/JavaScript Frontend, Java/Spring Boot Backend, SQL
 
 ### What I'll Have to Learn
-   Accessing and using APIs
+   #### Accessing and using APIs
 
 ### Project Tracker
-[RecLeague Organizer Trello](https://trello.com/b/4CciJPnR/recleague-organizer)
+   #### [RecLeague Organizer Trello](https://trello.com/b/4CciJPnR/recleague-organizer)
